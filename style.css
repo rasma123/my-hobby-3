@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding-top: 200px;
+    text-align: center;
+    background: linear-gradient(#f55d42 0%,#f54260 100%);
+}
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 300px;
+}
+.line
+{
+height: 3px;
+    width:200px;
+    background-color: black;
+    margin: auto;
+}
+#heading
+{
+    text-shadow: 2px 2px #42e9f5;
+    font-size: 29px;
+}
+#bio
+{
+padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.2;
+    background-color: pink;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+h2
+{
+    font-family: 'Raleway', sans-serif;
+}
+.menu
+{
+list-style: none;
+font-family: cursive;
+float: right;
+top:10px;
+right: 30px;
+cursor: pointer;
+ color: black;
+ position: fixed;
+}
+.link{
+    float: left;
+    color:black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-size: 20px;
+    
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+#about
+{
+    background-color: lavender;
+    margin: auto;
+     width: 80%;
+    font-size: 30;
+     font-family: 'Raleway', sans-serif;
+}
+#video
+{
+    background-color: magenta;
+    margin: auto;
+     width: 80%;
+     font-size: 30;
+     font-family: 'Raleway', sans-serif;
+    
+    
+}
+#info
+{
+  background-color: skyblue; 
+    margin: auto;
+     width: 80%;
+     font-size: 30;
+     font-family: 'Raleway', sans-serif;
+    
+}
+#inspiration
+{
+   background-color: thistle;
+    margin: auto;
+     width: 80%;
+     font-size: 30;
+     font-family: 'Raleway', sans-serif;
+}
+#work
+{
+    background-color: rosybrown;
+    margin: auto;
+     width: 80%;
+     font-size: 30;
+     font-family: 'Raleway', sans-serif;
+}
+#subject
+{
+    font-size: 55;
+     font-family: 'Raleway', sans-serif;
+}
+
+
